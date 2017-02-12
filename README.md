@@ -1,1 +1,1 @@
-# WGcrawler
+# WGscrapper
